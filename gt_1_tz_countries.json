@@ -1,0 +1,102 @@
+{
+  "Antarctica": {
+    "long_name": "Antarctica",
+    "short_name": "Antarctica"
+  },
+  "AU": {
+    "long_name": "Australia",
+    "short_name": "AU"
+  },
+  "BR": {
+    "long_name": "Brazil",
+    "short_name": "BR"
+  },
+  "CA": {
+    "long_name": "Canada",
+    "short_name": "CA"
+  },
+  "CL": {
+    "long_name": "Chile",
+    "short_name": "CL"
+  },
+  "CD": {
+    "long_name": "Democratic Republic of the Congo",
+    "short_name": "CD"
+  },
+  "DK": {
+    "long_name": "Denmark",
+    "short_name": "DK"
+  },
+  "EC": {
+    "long_name": "Ecuador",
+    "short_name": "EC"
+  },
+  "FM": {
+    "long_name": "Federated States of Micronesia",
+    "short_name": "FM"
+  },
+  "FR": {
+    "long_name": "France",
+    "short_name": "FR"
+  },
+  "ID": {
+    "long_name": "Indonesia",
+    "short_name": "ID"
+  },
+  "KZ": {
+    "long_name": "Kazakhstan",
+    "short_name": "KZ"
+  },
+  "KI": {
+    "long_name": "Kiribati",
+    "short_name": "KI"
+  },
+  "MX": {
+    "long_name": "Mexico",
+    "short_name": "MX"
+  },
+  "MN": {
+    "long_name": "Mongolia",
+    "short_name": "MN"
+  },
+  "NL": {
+    "long_name": "Netherlands",
+    "short_name": "NL"
+  },
+  "NZ": {
+    "long_name": "New Zealand",
+    "short_name": "NZ"
+  },
+  "PG": {
+    "long_name": "Papua New Guinea",
+    "short_name": "PG"
+  },
+  "PT": {
+    "long_name": "Portugal",
+    "short_name": "PT"
+  },
+  "RU": {
+    "long_name": "Russia",
+    "short_name": "RU"
+  },
+  "ZA": {
+    "long_name": "South Africa",
+    "short_name": "ZA"
+  },
+  "ES": {
+    "long_name": "Spain",
+    "short_name": "ES"
+  },
+  "UA": {
+    "long_name": "Ukraine",
+    "short_name": "UA"
+  },
+  "GB": {
+    "long_name": "United Kingdom",
+    "short_name": "GB"
+  },
+  "US": {
+    "long_name": "United States",
+    "short_name": "US"
+  }
+}
