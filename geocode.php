@@ -1,7 +1,7 @@
 <?php
 
-$root_server = "https://bmlt.narcotiquesanonymes.org";
-$API_KEY="";
+$root_server = "https://www.narcotics-anonymous.de/bmlt";
+$API_KEY = "";
 
 $meetings = json_decode(get("$root_server/client_interface/json/?switcher=GetSearchResults"), true);
 $serverInfo = json_decode(get("$root_server/client_interface/json/?switcher=GetServerInfo"), true);
@@ -14,10 +14,13 @@ foreach ($meetings as $meeting) {
     $zip_code = $meeting['location_postal_code_1'];
     $county = $meeting['location_sub_province'];
     $state = $meeting['location_province'];
+
     if (trim($meeting['location_nation']) != "") {
         $country = $meeting['location_nation'];
-    } else {
+    } else if (strlen($regionBias) == 2) {
         $country = $regionBias;
+    } else {
+        $country = "";
     }
 
     if ($city && $state) {
@@ -67,6 +70,7 @@ foreach ($meetings as $meeting) {
     echo "LocationString: " . $location . "\n";
     echo "ComponentTypes: " . $ComponentTypesString . "\n";
     echo "FormattedAddress: " . $formattedAddress . "\n";
+    echo "RegionBias: " . $rb . "\n";
 }
 
 
