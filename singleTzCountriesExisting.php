@@ -43,13 +43,6 @@ $singleTimezoneCountries = array(
         "timeZoneId" => "America/Nassau",
         "timeZoneName" => "Eastern Standard Time"
     ),
-    "DANIA" => array(
-        "dstOffset" => 0,
-        "rawOffset" => 3600,
-        "timeZoneId" => "Europe/Copenhagen",
-        "timeZoneName" => "Central European Standard Time"
-    ),
-
     "DEUTSCH" => array(
         "dstOffset" => 0,
         "rawOffset" => 3600,

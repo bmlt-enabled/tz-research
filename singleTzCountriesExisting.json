@@ -41,12 +41,6 @@
     "timeZoneId": "America/Nassau",
     "timeZoneName": "Eastern Standard Time"
   },
-  "DANIA": {
-    "dstOffset": 0,
-    "rawOffset": 3600,
-    "timeZoneId": "Europe/Copenhagen",
-    "timeZoneName": "Central European Standard Time"
-  },
   "DEUTSCH": {
     "dstOffset": 0,
     "rawOffset": 3600,
