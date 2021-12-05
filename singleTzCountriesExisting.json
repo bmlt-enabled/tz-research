@@ -1,0 +1,260 @@
+{
+  "ALLEMAGNE": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Berlin",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "ARGENTINA": {
+    "dstOffset": 0,
+    "rawOffset": -10800,
+    "timeZoneId": "America/Argentina/Salta",
+    "timeZoneName": "Argentina Standard Time"
+  },
+  "AUSTRIA": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Vienna",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "BELGIA": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Brussels",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "BM": {
+    "dstOffset": 0,
+    "rawOffset": -14400,
+    "timeZoneId": "Atlantic/Bermuda",
+    "timeZoneName": "Atlantic Standard Time"
+  },
+  "BOTSWANA": {
+    "dstOffset": 0,
+    "rawOffset": 7200,
+    "timeZoneId": "Africa/Gaborone",
+    "timeZoneName": "Central Africa Time"
+  },
+  "BS": {
+    "dstOffset": 0,
+    "rawOffset": -18000,
+    "timeZoneId": "America/Nassau",
+    "timeZoneName": "Eastern Standard Time"
+  },
+  "DANIA": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Copenhagen",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "DEUTSCH": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Berlin",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "DEUTSCHLAND": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Berlin",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "ESWATINI": {
+    "dstOffset": 0,
+    "rawOffset": 7200,
+    "timeZoneId": "Africa/Mbabane",
+    "timeZoneName": "South Africa Standard Time"
+  },
+  "GERMAN": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Berlin",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "GERMANY": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Berlin",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "GUADELOUPE": {
+    "dstOffset": 0,
+    "rawOffset": -14400,
+    "timeZoneId": "America/Guadeloupe",
+    "timeZoneName": "Atlantic Standard Time"
+  },
+  "IN": {
+    "dstOffset": 0,
+    "rawOffset": 19800,
+    "timeZoneId": "Asia/Calcutta",
+    "timeZoneName": "India Standard Time"
+  },
+  "INDIA": {
+    "dstOffset": 0,
+    "rawOffset": 19800,
+    "timeZoneId": "Asia/Calcutta",
+    "timeZoneName": "India Standard Time"
+  },
+  "IRELAND": {
+    "dstOffset": 0,
+    "rawOffset": 0,
+    "timeZoneId": "Europe/Dublin",
+    "timeZoneName": "Greenwich Mean Time"
+  },
+  "IRELND": {
+    "dstOffset": 0,
+    "rawOffset": 0,
+    "timeZoneId": "Europe/Dublin",
+    "timeZoneName": "Greenwich Mean Time"
+  },
+  "IRLANDIA": {
+    "dstOffset": 0,
+    "rawOffset": 0,
+    "timeZoneId": "Europe/Dublin",
+    "timeZoneName": "Greenwich Mean Time"
+  },
+  "ITALIA": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Rome",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "ITALY": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Rome",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "KENYA": {
+    "dstOffset": 0,
+    "rawOffset": 10800,
+    "timeZoneId": "Africa/Nairobi",
+    "timeZoneName": "East Africa Time"
+  },
+  "MAROC": {
+    "dstOffset": 3600,
+    "rawOffset": 0,
+    "timeZoneId": "Africa/Casablanca",
+    "timeZoneName": "GMT+01:00"
+  },
+  "MOZAMBIQUE": {
+    "dstOffset": 0,
+    "rawOffset": 7200,
+    "timeZoneId": "Africa/Maputo",
+    "timeZoneName": "Central Africa Time"
+  },
+  "NAMIBIA": {
+    "dstOffset": 0,
+    "rawOffset": 7200,
+    "timeZoneId": "Africa/Windhoek",
+    "timeZoneName": "Central Africa Time"
+  },
+  "NIEMCY": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Berlin",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "NIGERIA": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Africa/Lagos",
+    "timeZoneName": "West Africa Standard Time"
+  },
+  "NORTHERN IRELAND": {
+    "dstOffset": 0,
+    "rawOffset": 0,
+    "timeZoneId": "Europe/London",
+    "timeZoneName": "Greenwich Mean Time"
+  },
+  "NORWEGIA": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Oslo",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "POLAND": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Warsaw",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "POLSKA": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Warsaw",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "SCOTLAND": {
+    "dstOffset": 0,
+    "rawOffset": 0,
+    "timeZoneId": "Europe/London",
+    "timeZoneName": "Greenwich Mean Time"
+  },
+  "SUISSE": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Zurich",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "SVERGIE": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Stockholm",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "SVERIGE": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Stockholm",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "TANZANIA": {
+    "dstOffset": 0,
+    "rawOffset": 10800,
+    "timeZoneId": "Africa/Dar_es_Salaam",
+    "timeZoneName": "East Africa Time"
+  },
+  "THAILANDE": {
+    "dstOffset": 0,
+    "rawOffset": 25200,
+    "timeZoneId": "Asia/Bangkok",
+    "timeZoneName": "Indochina Time"
+  },
+  "TT": {
+    "dstOffset": 0,
+    "rawOffset": -14400,
+    "timeZoneId": "America/Port_of_Spain",
+    "timeZoneName": "Atlantic Standard Time"
+  },
+  "UGANDA": {
+    "dstOffset": 0,
+    "rawOffset": 10800,
+    "timeZoneId": "Africa/Kampala",
+    "timeZoneName": "East Africa Time"
+  },
+  "URUGUAI": {
+    "dstOffset": 0,
+    "rawOffset": -10800,
+    "timeZoneId": "America/Montevideo",
+    "timeZoneName": "Uruguay Standard Time"
+  },
+  "ZIMBABWE": {
+    "dstOffset": 0,
+    "rawOffset": 7200,
+    "timeZoneId": "Africa/Harare",
+    "timeZoneName": "Central Africa Time"
+  },
+  "ÖSTEREICH": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Vienna",
+    "timeZoneName": "Central European Standard Time"
+  },
+  "ÖSTERREICH": {
+    "dstOffset": 0,
+    "rawOffset": 3600,
+    "timeZoneId": "Europe/Vienna",
+    "timeZoneName": "Central European Standard Time"
+  }
+}
